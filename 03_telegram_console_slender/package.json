@@ -1,0 +1,20 @@
+{
+  "name": "03_telegram_console_slender",
+  "version": "1.0.0",
+  "description": "telegram console slender",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "telegram",
+    "console",
+    "slender"
+  ],
+  "author": "Oleksandr Bezpalyi",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^11.1.0",
+    "node-telegram-bot-api": "^0.63.0"
+  }
+}

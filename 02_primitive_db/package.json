@@ -1,0 +1,28 @@
+{
+  "type": "module",
+  "name": "02_primitive_db",
+  "version": "1.0.0",
+  "description": "primitive db",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ETHERNXL/serverless-academy.git"
+  },
+  "keywords": [
+    "primitive",
+    "db"
+  ],
+  "author": "Oleksandr Bezpalyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ETHERNXL/serverless-academy/issues"
+  },
+  "homepage": "https://github.com/ETHERNXL/serverless-academy#readme",
+  "dependencies": {
+    "inquirer": "^9.2.11"
+  }
+  
+}
