@@ -1,0 +1,27 @@
+{
+  "name": "07_grouping_vacations",
+  "version": "1.0.0",
+  "description": "07 grouping vacations",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ETHERNXL/serverless-academy.git"
+  },
+  "keywords": [
+    "grouping",
+    "vacations",
+    "07"
+  ],
+  "author": "Oleksandr Bezpalyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ETHERNXL/serverless-academy/issues"
+  },
+  "homepage": "https://github.com/ETHERNXL/serverless-academy#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
